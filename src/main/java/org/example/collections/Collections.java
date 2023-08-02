@@ -143,9 +143,11 @@ public class Collections {
 //
 //        System.out.println(li);
 
-        for(Map.Entry<String, Integer> entry : hashMap.entrySet()) {
-            System.out.println(entry.getKey() + " : " + entry.getValue());
-        }
+//        for(Map.Entry<String, Integer> entry : hashMap.entrySet()) {
+//            System.out.println(entry.getKey() + " : " + entry.getValue());
+//        }
+
+        System.out.println(Integer.MAX_VALUE);
 
     }
 }
